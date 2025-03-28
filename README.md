@@ -42,10 +42,10 @@
 ---
 
 ### 📊 Estatísticas do GitHub:  
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=furbim&theme=tokyonight" alt="Furbim's Streak Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=furbim&show_icons=true&theme=tokyonight&count_private=true" alt="Furbim's GitHub Stats" />
 </p>
