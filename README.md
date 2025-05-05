@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Thiago Freitas</h1>
-<h3 align="center">Desenvolvedor Full-Stack apaixonado por tecnologia e inovação</h3>
+<h3 align="center">Desenvolvedor Back-End apaixonado por tecnologia e inovação</h3>
 
 - 🌱 Atualmente, estou aprendendo **Flutter, Laravel, Kotlin e Swift**  
 
