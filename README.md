@@ -50,4 +50,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/thiagofreitasdev/))](https://www.linkedin.com/in/thiagofreitasdev/)
 [![Gmail Badge](https://img.shields.io/badge/-thiagofreitasofc202@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagofreitasofc202@gmail.com)](mailto:thiagofreitasofc202@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/[Furbim](https://github.com/Furbim/)?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/Furbim/))
+[![GitHub](https://img.shields.io/github/followers/[Furbim](https://github.com/Furbim/)?label=follow&style=social)](https://github.com/Furbim/)
